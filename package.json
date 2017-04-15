@@ -1,0 +1,16 @@
+{
+  "name": "get-website-info",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lfuller941@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "jquery": "^3.2.1",
+    "request": "^2.81.0"
+  }
+}
